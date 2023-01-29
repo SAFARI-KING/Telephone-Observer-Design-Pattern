@@ -1,6 +1,6 @@
 # Telephone-Observer-Design-Pattern
 
-- `learnable.js` is a sample solution for *TELEPHONE-OBSERVER DESIGN PATTERN* Task.
+- `learnable.js` is a sample solution for **TELEPHONE-OBSERVER DESIGN PATTERN** Task.
 
 ## USAGE
 
